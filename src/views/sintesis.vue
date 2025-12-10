@@ -2,11 +2,11 @@
 .curso-main-container.pb-3
   BannerInterno(icono="fas fa-sitemap" titulo="Síntesis")
   .container.tarjeta.tarjeta--blanca.p-4.p-md-5
-    p Lorem ipsum dolor sit amet, consectetur adipiscing elit. Mauris eu tincidunt erat. Fusce cursus mauris in nulla egestas vulputate. Phasellus viverra accumsan libero, sed luctus diam maximus euismod. Mauris sem risus, tincidunt vel libero in, lobortis commodo ante. Sed pulvinar luctus orci in rhoncus. Nulla ut dapibus risus, ac tempor est. Donec nulla augue, vehicula quis malesuada vitae, fermentum non nisi. Donec tincidunt nibh a magna bibendum rutrum.
+    p A continuación, se presenta una síntesis de la temática estudiada en el componente formativo.
     .row.justify-content-center
-      .col-lg-10.mb-5.bgs.p-4.brad
+      .col-lg-12.mb-5.bgs.p-4.brad
         figure
-          img(src="@/assets/curso/sintesis.svg", alt="Lorem ipsum dolor sit amet, consectetur adipiscing elit. Mauris eu tincidunt erat. Fusce cursus mauris in nulla egestas vulputate. Phasellus viverra accumsan libero, sed luctus diam maximus euismod. Mauris sem risus, tincidunt vel libero in, lobortis commodo ante. Sed pulvinar luctus orci in rhoncus. Nulla ut dapibus risus, ac tempor est. Donec nulla augue, vehicula quis malesuada vitae, fermentum non nisi. Donec tincidunt nibh a magna bibendum rutrum. ")
+          img(src="@/assets/curso/sintesis.svg", alt="Síntesis  sobre la transición agroecológica que organiza conceptos en categorías como problemas ambientales, causas principales, soluciones desde la agroecología, diagnóstico predial, principios agroecológicos, importancia del agua, biodiversidad, manejo de residuos y mapas ambientales, con subtemas relacionados a suelo, agua, biodiversidad, prácticas tradicionales, educación ambiental y sostenibilidad. ")
       .col-auto
         a.anexo.mb-5(:href="obtenerLink('/downloads/Sintesis.pdf')" target="_blank")
           .anexo__icono
