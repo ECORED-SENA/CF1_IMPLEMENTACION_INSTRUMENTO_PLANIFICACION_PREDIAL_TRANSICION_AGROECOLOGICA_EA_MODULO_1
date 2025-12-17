@@ -360,11 +360,6 @@ export default {
       titulo: 'ECOSISTEMA DE RECURSOS EDUCATIVOS DIGITALES',
       autores: [
         {
-          nombre: 'Milady Tatiana Villamil Castellanos',
-          cargo: 'Líder del ecosistema',
-          centro: 'Dirección General',
-        },
-        {
           nombre: 'Olga Constanza Bermúdez Jaimes',
           cargo: 'Responsable de línea de producción',
           centro: 'Dirección General',

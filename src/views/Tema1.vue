@@ -568,7 +568,7 @@
 
     AcordionA(tipo="a" clase-tarjeta="tarjeta acordeonA")(data-aos="zoom-in").mb-5
       .row(titulo="Proteger y conservar la naturaleza").ajuste-cajaAcordion
-        p.mb-3 Los sistemas agroecológicos se inspiran en la forma en que funciona la naturaleza: cuanto más conectados están sus elementos (agua, suelo, vegetación, fauna) mayor es su capacidad para sostener la vida. Por eso, cuidar los nacederos, ríos, bosques, humedales y la vegetación espontánea dentro del predio no solo es una acción ambiental, sino también una estrategia de producción, de bienestar familiar y de equilibrio del agroecosistema. Proteger la naturaleza implica integrar prácticas como: 
+        p.mb-3 Los sistemas agroecológicos se inspiran en la forma en que funciona la naturaleza: cuanto más conectados están sus elementos (agua, suelo, vegetación, fauna), mayor es su capacidad para sostener la vida. Por eso, cuidar los nacederos, ríos, bosques, humedales y la vegetación espontánea dentro del predio no solo es una acción ambiental, sino también una estrategia de producción, de bienestar familiar y de equilibrio del agroecosistema. Proteger la naturaleza implica integrar prácticas como: 
         <ul class="fa-ul estilo___ul_1 mb-3">
           <li class="mb-1"><span class="fa-li"><i class="fas fa-check-circle"></i></span>Sembrar árboles cerca de fuentes de agua.</li>
           <li class="mb-1"><span class="fa-li"><i class="fas fa-check-circle"></i></span>Conservar zonas de bosque y cercas vivas.</li>

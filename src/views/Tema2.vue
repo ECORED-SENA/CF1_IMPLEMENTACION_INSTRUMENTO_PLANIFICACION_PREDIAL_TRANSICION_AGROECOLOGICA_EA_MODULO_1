@@ -98,7 +98,7 @@
             h4.mb-3 Perímetros de protección
             p.mb-0 Franja de seguridad alrededor de fuentes hídricas (ríos, manantiales, pozos), destinada a <strong>prevenir la contaminación, la deforestación y el sobrepastoreo</strong>.
     
-    p.mb-0 En el marco de la <strong>planificación predial</strong>, estas unidades permiten <strong>delimitar zonas funcionales</strong> dentro del territorio cuencas, microcuencas, escurrimientos que pueden <strong>orientar o restringir</strong> actividades según su impacto sobre el recurso hídrico. Estas zonas son <strong>fácilmente identificables a nivel de finca, vereda o territorio comunitario</strong>, y deben ser incorporadas en la estrategia agroecológica como <strong>espacios de gestión prioritaria</strong>.
+    p.mb-0 En el marco de la <strong>planificación predial</strong>, estas unidades permiten <strong>delimitar zonas funcionales</strong> dentro del territorio: cuencas, microcuencas, escurrimientos que pueden <strong>orientar o restringir</strong> actividades según su impacto sobre el recurso hídrico. Estas zonas son <strong>fácilmente identificables a nivel de finca, vereda o territorio comunitario</strong>, y deben ser incorporadas en la estrategia agroecológica como <strong>espacios de gestión prioritaria</strong>.
 
     <!-- BLOQUE 3 -->
     Separador
