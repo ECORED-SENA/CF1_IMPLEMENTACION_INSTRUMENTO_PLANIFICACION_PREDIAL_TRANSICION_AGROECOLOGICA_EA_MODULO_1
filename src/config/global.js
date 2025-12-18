@@ -370,10 +370,33 @@ export default {
       titulo: 'CONTENIDO INSTRUCCIONAL',
       autores: [
         {
-          nombre: '',
-          cargo: 'Experto temático',
+          nombre: 'Jorge Eduardo Alava Arevalo',
+          cargo: 'Instructor técnico',
           centro:
-            'Centro Agroempresarial y Desarrollo Pecuario - Regional Huila',
+            'Centro Internacional de Producción Limpia Lope - Regional Nariño',
+        },
+        {
+          nombre: 'Gonzalo Cardona',
+          cargo: 'Coordinador Colombia',
+          centro: 'Agronomos y Veterinarios sin Fronteras (AVSF)',
+        },
+        {
+          nombre: 'Pablo Aguirre',
+          cargo: 'Coordinador',
+          centro:
+            'Proyecto Apoyo a la Reforma Rural Integral en Colombia (ARRIC) - Agronomos y Veterinarios sin Fronteras (AVSF)',
+        },
+        {
+          nombre: 'Jenny Gómez',
+          cargo: 'Asistente técnica',
+          centro:
+            'Proyecto Apoyo a la Reforma Rural Integral en Colombia (ARRIC) - Agronomos y Veterinarios sin Fronteras (AVSF)',
+        },
+        {
+          nombre: 'Roger Garcia',
+          cargo: 'Consultor',
+          centro:
+            'Proyecto Apoyo a la Reforma Rural Integral en Colombia (ARRIC) - Agronomos y Veterinarios sin Fronteras (AVSF)',
         },
         {
           nombre: 'Paola Alexandra Moya Peralta',
