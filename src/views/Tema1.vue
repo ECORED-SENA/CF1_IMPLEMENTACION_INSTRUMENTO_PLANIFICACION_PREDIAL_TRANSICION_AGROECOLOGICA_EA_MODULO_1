@@ -12,13 +12,13 @@
         figure.d-none.d-xl-block
           img(src='@/assets/curso/temas/img1.svg', alt='').m-auto
       .col-xl
-        p.mb-0 La transición agroecológica no puede comprenderse sin reconocer la <strong>crisis ecológica global</strong> y sus manifestaciones específicas en los territorios rurales. Esta unidad temática permite analizar las <strong>causas estructurales del colapso ecosistémico</strong>, los impactos del modelo agroindustrial sobre los equilibrios naturales y la urgencia de recuperar prácticas de cuidado, diversidad y planificación predial adaptada a los límites planetarios.
+        p.mb-0 La transición agroecológica no puede comprenderse sin reconocer la #[b crisis ecológica global] y sus manifestaciones específicas en los territorios rurales. Esta unidad temática permite analizar las #[b causas estructurales del colapso ecosistémico], los impactos del modelo agroindustrial sobre los equilibrios naturales y la urgencia de recuperar prácticas de cuidado, diversidad y planificación predial adaptada a los límites planetarios.
 
     <!-- BLOQUE 1 -->
     #t_1_1.titulo-segundo.color-acento-contenido(data-aos="fade-right")
       h2 1.1 Crisis planetaria y colapso ecosistémico
 
-    p.mb-5 La actual crisis planetaria se manifiesta en la acelerada degradación de los ecosistemas, el <strong>cambio climático, la pérdida de biodiversidad, la contaminación de suelos y aguas, y el agotamiento de los ciclos naturales</strong> que sostienen la vida. Este colapso ambiental <strong>no es un fenómeno aislado</strong>, sino el resultado de un modelo de desarrollo que ha <strong>roto los equilibrios ecológicos, fragmentado los paisajes</strong> y subordinado la naturaleza a lógicas anti naturales, como la <strong>uniformidad biológica y el extractivismo</strong>. En los territorios rurales, esta crisis tiene expresiones concretas:
+    p.mb-5 La actual crisis planetaria se manifiesta en la acelerada degradación de los ecosistemas, el #[b cambio climático, la pérdida de biodiversidad, la contaminación de suelos y aguas, y el agotamiento de los ciclos naturales] que sostienen la vida. Este colapso ambiental <strong>no es un fenómeno aislado</strong>, sino el resultado de un modelo de desarrollo que ha <strong>roto los equilibrios ecológicos, fragmentado los paisajes</strong> y subordinado la naturaleza a lógicas antinaturales, como la <strong>uniformidad biológica y el extractivismo</strong>. En los territorios rurales, esta crisis tiene expresiones concretas:
 
     .row.justify-content-center.mb-5
       .col-xl-2.col-lg-7.col-md-9.col-11.mb-4.mb-xl-0
@@ -304,7 +304,7 @@
       .col
         h3 La revolución verde y sus consecuencias ambientales
     
-    p.mb-5 La <strong>degradación ambiental</strong> no comenzó con la Revolución Verde, sino con una ruptura mucho más antigua: la <strong>violenta transformación impuesta durante la conquista de los territorios</strong>, sus pueblos y ecosistemas. Este quiebre marcó el inicio de una <strong>lógica de dominación sobre la naturaleza</strong>, que reemplazó formas milenarias de vida basadas en la <strong>diversidad, el equilibrio y el respeto por los ciclos naturales, por sistemas de producción extractivos</strong>, orientados al <strong>control y la homogeneización</strong>. Desde entonces, se consolidó una <strong>visión utilitarista</strong> del entorno, que ha:
+    p.mb-5 La #[b degradación ambiental] no comenzó con la revolución verde, sino con una ruptura mucho más antigua: la #[b violenta transformación impuesta durante la conquista de los territorios], sus pueblos y ecosistemas. Este quiebre marcó el inicio de una #[b lógica de dominación sobre la naturaleza], que reemplazó formas milenarias de vida basadas en la #[b diversidad, el equilibrio y el respeto por los ciclos naturales, por sistemas de producción extractivos], orientados al #[b control y la homogeneización]. Desde entonces, se consolidó una visión utilitarista del entorno. Esta perspectiva se manifiesta en situaciones como:
 
     .row.justify-content-center.mb-5
       .col-xl-8

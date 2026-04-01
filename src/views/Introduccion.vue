@@ -28,7 +28,7 @@
                     figure.d-none.d-xl-block
                       img(src='@/assets/curso/intro/img3.svg', alt='').m-auto
                   .col-xl
-                    p.mb-0 Este componente promueve el uso del <strong>Instrumento de Planificación Predial para la Transición Agroecológica (IPPTA)</strong> como guía metodológica para valorar fuentes hídricas, áreas de conservación y gestión de residuos, integrando técnicas participativas, bioindicadores y mapas temáticos. Se busca fortalecer la autonomía territorial, el monitoreo comunitario y la capacidad de los actores locales para regenerar sus agroecosistemas desde el cuidado, la equidad y la resiliencia.
+                    p.mb-0 Este componente promueve el uso del #[b Instrumento de Planificación Predial para la Transición Agroecológica (IPPTA)] como guía metodológica para valorar fuentes hídricas, áreas de conservación y gestión de residuos, integrando técnicas participativas, bioindicadores y mapas temáticos. Se busca fortalecer la autonomía territorial, el monitoreo comunitario y la capacidad de los actores locales para regenerar sus agroecosistemas desde el cuidado, la equidad y la resiliencia.
 
 </template>
 
