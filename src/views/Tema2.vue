@@ -315,7 +315,7 @@
 
     figure(data-aos="zoom-in").mb-5
       .video.mb-1
-        iframe(width="560" height="315" src="https://www.youtube.com/embed/4ZqxwIBilbg" title="Clasificación por características sensoriales" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen)
+        iframe(width="560" height="315" src="https://www.youtube.com/embed/qwOMckBdqjc" title="Clasificación por características sensoriales" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen)
       figcaption(data-aos="zoom-in") <strong>Video</strong>: clasificación por características sensoriales.
 
     .row.align-items-center.mb-0
