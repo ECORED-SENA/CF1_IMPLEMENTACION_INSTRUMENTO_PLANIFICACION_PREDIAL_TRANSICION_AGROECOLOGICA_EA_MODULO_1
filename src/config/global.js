@@ -361,7 +361,7 @@ export default {
       autores: [
         {
           nombre: 'Olga Constanza Bermúdez Jaimes',
-          cargo: 'Responsable de línea de producción',
+          cargo: 'Responsable de línea de producción Huila',
           centro: 'Dirección General',
         },
       ],
